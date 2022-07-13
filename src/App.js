@@ -90,7 +90,7 @@ function App() {
               </div>
               <p className="text-center">
                 <img
-                  src={"/1.png"}
+                  src={"1.png"}
                   alt={"Image1"} 
                   className="img-fluid mx-auto d-block abc "
                 />
@@ -106,7 +106,7 @@ function App() {
           <div className="row">
             <div className="col-sm-12 col-sm-offset-2">
               <img
-                src={"/2.jpg"}
+                src={"2.jpg"}
                 alt={"Image2"} 
                 className="img-fluid abc1 mx-auto d-block "
               />
