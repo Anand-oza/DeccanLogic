@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DeccanLogic/static/css/main.41e8f8f0.css",
+    "main.js": "/DeccanLogic/static/js/main.bf48d1d7.js",
+    "static/js/787.414fc025.chunk.js": "/DeccanLogic/static/js/787.414fc025.chunk.js",
+    "index.html": "/DeccanLogic/index.html",
+    "main.41e8f8f0.css.map": "/DeccanLogic/static/css/main.41e8f8f0.css.map",
+    "main.bf48d1d7.js.map": "/DeccanLogic/static/js/main.bf48d1d7.js.map",
+    "787.414fc025.chunk.js.map": "/DeccanLogic/static/js/787.414fc025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e8f8f0.css",
+    "static/js/main.bf48d1d7.js"
+  ]
+}
