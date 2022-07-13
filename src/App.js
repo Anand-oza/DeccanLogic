@@ -106,7 +106,7 @@ function App() {
           <div className="row">
             <div className="col-sm-12 col-sm-offset-2">
               <img
-                src={'./DeccanLogic/2.jpg'}
+                src={"./DeccanLogic/2.jpg"}
                 alt={"Image2"} 
                 className="img-fluid abc1 mx-auto d-block "
               />
